@@ -57,7 +57,7 @@ function List(
       };
 
       // @ts-ignore
-      setUnfollowers(followingListData.filter(comparer(followersListData)));
+      setUnfollowers((followingListData.filter(comparer(followersListData))).reverse());
     }
   }, [followingListData, followersListData]);
 
