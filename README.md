@@ -15,6 +15,6 @@
 - Open **Safari**. Other browsers, such as Chrome, won't work for this.
 - Navigate to [**clubhouse-unfollowers**](https://soroushchehresa.github.io/clubhouse-unfollowers).
 - Tap the **Share button** at the bottom of the page.
-- In the list of options that appears tap **Add to Home Screen**.
+- In the list of options that appears scroll down and tap **Add to Home Screen**.
 - On the next screen tap **Add**.
 - Done ;) Now just tap **CH Unfollowers** on your home screen.
