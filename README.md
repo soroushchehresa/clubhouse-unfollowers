@@ -4,9 +4,12 @@
 
 <div align="center">
   
-## This a PWA web application to find people who unfollowed you.
+### This a PWA web application to find people who unfollowed you on Clubhouse.
 
 </div>
+
+<br>
+<br>
 
 ## Installation
 - Open **Safari**. Other browsers, such as Chrome, won't work for this.
