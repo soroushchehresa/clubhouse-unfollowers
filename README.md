@@ -17,4 +17,4 @@
 - Tap the **Share button** at the bottom of the page.
 - In the list of options that appears scroll down and tap **Add to Home Screen**.
 - On the next screen tap **Add**.
-- Done ;) Now just tap **CH Unfollowers** on your home screen.
+- Done, Now **CH Unfollowers** added to your home screen as an application.
