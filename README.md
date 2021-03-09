@@ -1,8 +1,10 @@
 <p align="center">
 <img src="https://raw.githubusercontent.com/soroushchehresa/clubhouse-unfollowers/master/logo.png" align="center" width="400px" />
-  
-This a PWA web application to find people who unfollowed you.
 </p>
+
+<div align="center">
+## This a PWA web application to find people who unfollowed you.
+</div>
 
 ## Installation
 - Open **Safari**. Other browsers, such as Chrome, won't work for this.
