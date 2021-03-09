@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/soroushchehresa/clubhouse-unfollowers/master/logo.png" align="center" width="400px" />
+<img src="https://raw.githubusercontent.com/soroushchehresa/clubhouse-unfollowers/master/logo.png" align="center" width="500px" />
 </p>
 
 <div align="center">
