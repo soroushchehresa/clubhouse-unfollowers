@@ -4,7 +4,7 @@
 
 <div align="center">
   
-#### This a PWA web application to find people who unfollowed you on Clubhouse.
+#### This a web application to find people who unfollowed you on Clubhouse.
 
 </div>
 
