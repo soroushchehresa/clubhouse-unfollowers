@@ -1,7 +1,8 @@
 {
   "name": "clubhouse-unfollowers",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
+  "homepage": "http://soroushchehresa.github.io/clubhouse-unfollowers",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
@@ -32,6 +33,8 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
@@ -60,6 +63,7 @@
     "@types/react-router-dom": "^5.1.7",
     "@types/redux-logger": "^3.0.8",
     "@types/styled-components": "^5.1.7",
-    "@types/uuid": "^8.3.0"
+    "@types/uuid": "^8.3.0",
+    "gh-pages": "^3.1.0"
   }
 }
