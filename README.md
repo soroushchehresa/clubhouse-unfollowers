@@ -1,2 +1,2 @@
 # Clubhouse Unfollowers
-#### This a PWA web application to find People who unfollowed you.
+#### This a PWA web application to find people who unfollowed you.
