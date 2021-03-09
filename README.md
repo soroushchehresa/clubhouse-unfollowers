@@ -11,7 +11,7 @@
 <br>
 
 ## Installation
-- Open **Safari**. Other browsers, such as Chrome, won't work for this app.
+- Open **Safari**. Other browsers such as Chrome won't work for this app.
 - Navigate to [**clubhouse-unfollowers**](https://soroushchehresa.github.io/clubhouse-unfollowers).
 - Tap the **Share button** at the bottom of the page.
 - In the list of options that appears scroll down and tap **Add to Home Screen**.
