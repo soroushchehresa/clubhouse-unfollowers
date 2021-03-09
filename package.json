@@ -2,7 +2,7 @@
   "name": "clubhouse-unfollowers",
   "version": "0.1.0",
   "private": false,
-  "homepage": "http://soroushchehresa.github.io/clubhouse-unfollowers",
+  "homepage": "https://soroushchehresa.github.io/clubhouse-unfollowers",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
@@ -33,7 +33,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "predeploy": "npm run build",
+    "predeploy": "sudo yarn build",
     "deploy": "gh-pages -d build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
