@@ -1,7 +1,6 @@
 <p align="center">
 <img src="https://raw.githubusercontent.com/soroushchehresa/clubhouse-unfollowers/master/logo.png" align="center" width="500px" />
 </p>
-
 <div align="center">
   
 #### This a web application to find people who unfollowed you on Clubhouse.
