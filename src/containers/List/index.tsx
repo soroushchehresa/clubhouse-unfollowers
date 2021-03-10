@@ -95,7 +95,7 @@ function List(
               unfollowers.map((item) => (
                 <li className="unfollower-item">
                   <div className="details-wrapper">
-                    <img src={_.get(item, 'photo_url')} width="100px" alt="profile-picture" />
+                    <img src={_.get(item, 'photo_url')} width="100px" alt="profile" />
                     <p>{_.get(item, 'name')}</p>
                   </div>
                   <div className="unfollow-wrapper">
