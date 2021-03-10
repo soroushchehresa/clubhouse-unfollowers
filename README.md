@@ -11,10 +11,10 @@
 <br>
 <br>
 
-## Installation
-- Open **Safari** on your iPhone. Other browsers such as Chrome won't work for this app.
+## Installation (iPhone)
+- Open **Safari**.
 - Navigate to [**https://unfollow.netlify.app**](https://unfollow.netlify.app).
-- Tap the **Share button** at the bottom of the page.
+- Tap the **Share button** at the bottom of the screen.
 - In the list of options that appears scroll down and tap **Add to Home Screen**.
 - On the next screen tap **Add**.
 - Done, Now **CH Unfollowers** added to your home screen as an application.
