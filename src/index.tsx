@@ -12,7 +12,7 @@ ReactDOM.render(
   <Provider store={store}>
     <i></i>
     <b></b>
-    <GlobalStyles />s
+    <GlobalStyles />
     <Router>
       <Switch>
         <Route path="/login">
