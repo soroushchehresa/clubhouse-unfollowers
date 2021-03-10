@@ -4,7 +4,7 @@
 <div align="center">
   
 ## [https://unfollow.netlify.app](https://unfollow.netlify.app)
-#### This a web application to find people who unfollowed you or don't follow you back on Clubhouse.
+#### This is a web application to find people who unfollowed you or don't follow you back on Clubhouse.
 
 </div>
 
