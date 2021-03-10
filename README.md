@@ -25,4 +25,4 @@ This is a web application to find and unfollow people who unfollowed you or don'
 <br>
 <br>
 
-Made with ❤️ using [React](https://github.com/facebook/react) and [TypeScript](https://github.com/microsoft/TypeScript) based on [Clubhouse](https://apps.apple.com/us/app/clubhouse-drop-in-audio-chat/id1503133294) API.
+Made with ❤️ using [React](https://github.com/facebook/react) and [TypeScript](https://github.com/microsoft/TypeScript), based on [Clubhouse](https://apps.apple.com/us/app/clubhouse-drop-in-audio-chat/id1503133294) API and hosted on [Netlify](https://app.netlify.com/sites/unfollow/deploys).
