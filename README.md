@@ -3,7 +3,7 @@
 </p>
 <div align="center">
   
-#### This a web application to find people who unfollowed you on Clubhouse.
+#### This a web application to find people who unfollowed you or don't follow you back on Clubhouse.
 
 </div>
 
