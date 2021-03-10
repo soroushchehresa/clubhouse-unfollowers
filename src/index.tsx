@@ -10,9 +10,9 @@ import store from './redux/store'
 
 ReactDOM.render(
   <Provider store={store}>
-    <i>Speaker</i>
-    <b>Camera</b>
-    <GlobalStyles />
+    <i></i>
+    <b></b>
+    <GlobalStyles />s
     <Router>
       <Switch>
         <Route path="/login">
