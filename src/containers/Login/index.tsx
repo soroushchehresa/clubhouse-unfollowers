@@ -73,10 +73,10 @@ function Login(
         id="next-button"
         type="button"
         onClick={() => mode === 'Phone'
-          ? getConfirmationCodeAction({ phone_number: phone })
+          ? getConfirmationCodeAction({ phone_number: phone.replace(/\s/g, '') })
           : submitConfirmationCodeAction({
-            phone_number: phone,
-            verification_code: code
+            phone_number: phone.replace(/\s/g, ''),
+            verification_code: code.replace(/\s/g, '')
           })}
       >
         {
