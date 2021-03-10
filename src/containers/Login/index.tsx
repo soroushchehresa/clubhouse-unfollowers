@@ -1,3 +1,5 @@
+/* eslint-disable react-hooks/exhaustive-deps */
+
 import React, { useState, useEffect } from 'react';
 import { BsArrowRight } from 'react-icons/bs';
 import { useHistory } from 'react-router-dom';

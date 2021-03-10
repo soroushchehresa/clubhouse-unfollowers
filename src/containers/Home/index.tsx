@@ -1,3 +1,5 @@
+/* eslint-disable react-hooks/exhaustive-deps */
+
 import React, { useEffect } from 'react';
 import { useHistory } from 'react-router-dom';
 import Styles from './styles';
