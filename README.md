@@ -3,6 +3,7 @@
 </p>
 <div align="center">
   
+## [https://unfollow.netlify.app](https://unfollow.netlify.app)
 #### This a web application to find people who unfollowed you or don't follow you back on Clubhouse.
 
 </div>
@@ -12,7 +13,7 @@
 
 ## Installation
 - Open **Safari**. Other browsers such as Chrome won't work for this app.
-- Navigate to [**clubhouse-unfollowers**](https://soroushchehresa.github.io/clubhouse-unfollowers).
+- Navigate to [**https://unfollow.netlify.app**](https://soroushchehresa.github.io/clubhouse-unfollowers).
 - Tap the **Share button** at the bottom of the page.
 - In the list of options that appears scroll down and tap **Add to Home Screen**.
 - On the next screen tap **Add**.
