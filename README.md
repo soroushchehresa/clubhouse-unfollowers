@@ -21,3 +21,8 @@ This is a web application to find and unfollow people who unfollowed you or don'
 - In the list of options that appears scroll down and tap **Add to Home Screen**.
 - On the next screen tap **Add**.
 - Done, Now **CH Unfollowers** added to your home screen as an application.
+
+<br>
+<br>
+
+Made with ❤️ using [React](https://github.com/facebook/react) and [TypeScript](https://github.com/microsoft/TypeScript) based on [Clubhouse](https://apps.apple.com/us/app/clubhouse-drop-in-audio-chat/id1503133294) API.
