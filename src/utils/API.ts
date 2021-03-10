@@ -41,6 +41,9 @@ class Request {
       localStorage.clear();
       window.location.reload();
     }
+    if (status === 429) {
+      alert(_.get(response, ['response', 'data', 'error_message']));
+    }
     return (status && status >= 200 && status < 300)
       ? resolve(response) : resolve(_.get(response, 'response'));
   }

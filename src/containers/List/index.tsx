@@ -88,37 +88,39 @@ function List(
           <PulseLoader color="#333" size={24} />
         </div>
       )}
-      {unfollowers && (
-        <ul id="unfollowers-list">
-          {
-            unfollowers.map((item) => (
-              <li className="unfollower-item">
-                <div className="details-wrapper">
-                  <img src={_.get(item, 'photo_url')} width="100px" />
-                  <p>{_.get(item, 'name')}</p>
-                </div>
-                <div className="unfollow-wrapper">
-                  <button
-                    disabled={!!unfollowUserLoading}
-                    onClick={() => unfollowUserAction({ user_id: _.get(item, 'user_id') })}
-                  >
-                    {
-                      unfollowUserLoading === _.get(item, 'user_id')
-                        ? <PulseLoader color="#fff" size={10} />
-                        : 'Unfollow'
-                    }
-                  </button>
-                </div>
-              </li>
-            ))
-          }
-          <li>
-            <button onClick={handleLogout} id="logout-button">
-              Logout
-            </button>
-          </li>
-        </ul>
-      )}
+      {
+        unfollowers && ((unfollowers.length > 0) ? (
+          <ul id="unfollowers-list">
+            {
+              unfollowers.map((item) => (
+                <li className="unfollower-item">
+                  <div className="details-wrapper">
+                    <img src={_.get(item, 'photo_url')} width="100px" />
+                    <p>{_.get(item, 'name')}</p>
+                  </div>
+                  <div className="unfollow-wrapper">
+                    <button
+                      disabled={!!unfollowUserLoading}
+                      onClick={() => unfollowUserAction({ user_id: _.get(item, 'user_id') })}
+                    >
+                      {
+                        unfollowUserLoading === _.get(item, 'user_id')
+                          ? <PulseLoader color="#fff" size={10} />
+                          : 'Unfollow'
+                      }
+                    </button>
+                  </div>
+                </li>
+              ))
+            }
+          </ul>
+        ) : (
+          <h3 id="empty-list">You don't have any unfollowers :)</h3>
+        ))
+      }
+      <button onClick={handleLogout} id="logout-button">
+        Logout
+      </button>
     </Styles>
   );
 }
