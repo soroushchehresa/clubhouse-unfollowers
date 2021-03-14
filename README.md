@@ -14,10 +14,7 @@ This is a web application to find and unfollow people who unfollowed you or don'
 <br>
 
 ## Demo
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/soroushchehresa/clubhouse-unfollowers/master/demo.gif" width="300px" />
-</p>
+<img src="https://raw.githubusercontent.com/soroushchehresa/clubhouse-unfollowers/master/demo.gif" width="300px" />
 
 <br>
 
