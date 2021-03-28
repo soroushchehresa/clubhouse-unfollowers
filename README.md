@@ -12,7 +12,6 @@ This is a web application to find and unfollow people who unfollowed you or don'
 </div>
 
 <br>
-<br>
 
 # Demo
 
