@@ -12,12 +12,12 @@ This is a web application to find and unfollow people who unfollowed you or don'
 
 <br>
 
-## Demo
+# Demo
 <img src="https://raw.githubusercontent.com/soroushchehresa/clubhouse-unfollowers/master/demo.gif" width="300px" />
 
 <br>
 
-## Installation (iPhone)
+# Installation (iPhone)
 - Open **Safari**
 - Navigate to [**https://unfollow.netlify.app**](https://unfollow.netlify.app)
 - Tap the **Share button** at the bottom of the screen
