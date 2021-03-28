@@ -1,9 +1,8 @@
 <br>
-<br>
-<p align="center">
-<img src="https://raw.githubusercontent.com/soroushchehresa/clubhouse-unfollowers/master/logo.png" align="center" width="500px" />
-</p>
+
 <div align="center">
+  
+# 👋 Clubhouse Unfollowers
 
 This is a web application to find and unfollow people who unfollowed you or don't follow you back on Clubhouse.
 
