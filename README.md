@@ -11,6 +11,12 @@ This is a web application to find and unfollow people who unfollowed you or don'
 
 </div>
 
+
+<br>
+
+## Demo
+<img src="https://raw.githubusercontent.com/soroushchehresa/clubhouse-unfollowers/master/demo.gif" width="300px" />
+
 <br>
 
 ## Installation (iPhone)
@@ -21,11 +27,9 @@ This is a web application to find and unfollow people who unfollowed you or don'
 - On the next screen tap **Add**.
 - Done, Now **CH Unfollowers** added to your home screen as an application.
 
+<img src="https://raw.githubusercontent.com/soroushchehresa/clubhouse-unfollowers/master/installation.gif" width="300px" />
+
 <br>
-
-## Demo
-<img src="https://raw.githubusercontent.com/soroushchehresa/clubhouse-unfollowers/master/demo.gif" width="300px" />
-
 <br>
 <br>
 
