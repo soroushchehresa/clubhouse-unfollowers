@@ -12,7 +12,10 @@ This is a web application to find and unfollow people who unfollowed you or don'
 
 <br>
 
-# [Demo](https://unfollow.netlify.app)
+# Demo
+
+[https://unfollow.netlify.app](https://unfollow.netlify.app)
+
 <img src="https://raw.githubusercontent.com/soroushchehresa/clubhouse-unfollowers/master/demo.gif" width="300px" />
 
 <br>
