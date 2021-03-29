@@ -5,7 +5,7 @@
   
 # 👋 Clubhouse Unfollowers
 
-This is a web application to find and unfollow people who unfollowed you or don't follow you back on Clubhouse.
+A web application to find and unfollow people who unfollowed you or don't follow you back on Clubhouse.
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/7fc8646e-f411-45f9-aec8-91a917701c59/deploy-status)](https://app.netlify.com/sites/unfollow/deploys)
 
