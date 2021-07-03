@@ -1,8 +1,8 @@
-# Archived
+# ⚠️ Archived ⚠️
 I have archived this project since I am not using Clubhouse anymore and I do not have enough free time for maintaining it. <br>
-If you want to continue this project or use this app, you can fork and develop it for your own!
+If you want to continue this project or use this app, you can fork and develop it for your own! <br>
+I appreciate your attention to this project so far. 🙏
 
-<br>
 <br>
 <br>
 
